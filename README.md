@@ -1,2 +1,2 @@
 # GooglePlayAnalysis
-Analyzing the data of Google Play App Dataset
+Analyzing the data of Google Play App Dataset. Will work with KNN, SVM etc. Later.
